@@ -1,0 +1,39 @@
+_repo: The-Life-and-Labours-of-the-Rev.-Samuel-Marsden_41258
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marsden, Samuel
+    birthdate: 1765
+    deathdate: 1838
+    gutenberg_agent_id: '41076'
+    url: http://www.gutenberg.org/2009/agents/41076
+  editor:
+    agent_name: Marsden, J. B. (John Buxton)
+    alias: Marsden, John Buxton
+    birthdate: 1803
+    deathdate: 1870
+    gutenberg_agent_id: '41077'
+    url: http://www.gutenberg.org/2009/agents/41077
+description: ''
+gutenberg_issued: '2012-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41258'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Missions -- New Zealand'
+- !lcc 'DU'
+- !lcsh 'Marsden, Samuel, 1765-1838'
+- !lcsh 'Missions -- French Polynesia -- Tahiti (Island)'
+- !lcsh 'Maori (New Zealand people)'
+- !lcc 'BV'
+title: Memoirs of the Life and Labours of the Rev. Samuel Marsden, of Paramatta, Senior
+  Chaplain of New South Wales; and of His Early Connexion with the Missions to New
+  Zealand and Tahiti
+url: http://www.gutenberg.org/ebooks/41258
